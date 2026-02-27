@@ -1,8 +1,6 @@
 # SWIGGY-DATA-ANALYSIS---EXCEL
 Swiggy Order Data Analysis Excel Project
 
-
-https://github.com/amaan20002023-sketch/SWIGGY-DATA-ANALYSIS---EXCEL/edit/main/README.md
  
 Overview
 This GitHub repository hosts an Excel-based project for analyzing personal Swiggy order data. The goal is to uncover insights into ordering habits, spending patterns, food preferences, restaurant choices, and delivery performance. The core file, SWIGGY REVISE.xlsx, contains raw data, processed analyses, pivot tables, KPIs, and a dashboard for visual summaries.
