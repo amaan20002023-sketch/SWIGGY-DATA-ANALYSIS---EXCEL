@@ -59,7 +59,7 @@ javascript_swiggy_data_download: API fetch script.
 Data spans 2023-2024, with 107 orders from Bangalore areas like HSR (41%).
 Installation and Setup
 
-Clone the Repository:textgit clone https://github.com/yourusername/swiggy-excel-analysis.git
+Clone the Repository:(https://github.com/amaan20002023-sketch/SWIGGY-DATA-ANALYSIS---EXCEL)
 cd swiggy-excel-analysis
 Requirements:
 Microsoft Excel (2016+ recommended for pivots and charts).
